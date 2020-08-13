@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597324339 source:c:\users\ferhat osanoglu\documents\projecteuler\largest prime factor\main.c
+	<stdio.h>
+	<stdlib.h>
+
